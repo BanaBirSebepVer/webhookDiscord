@@ -1,5 +1,5 @@
-=== Discord Webhook Integration (DWI) ===
-Contributors: ChatGPT
+## Discord Webhook Integration (DWI)
+Contributors: BBSV
 Tags: discord, webhook, json
 Requires at least: 5.3
 Tested up to: 6.5
@@ -10,7 +10,7 @@ Requires PHP: 7.4
 
 Free to use category based webhook.
 
-== Description ==
+## Description
 
 Discord integration with automatic post simultaneously. 
 
@@ -19,33 +19,33 @@ The plugin's key features include:
 1. It works with Discord webhook in the category section
 2. Each category may have different webhook
 
-= DWI Plugin Audience: Everyone =
+# DWI Plugin Audience: Everyone
 
 This plugin can be used by both developers and non-developer users:
 
 
-= DWI Development =
+# DWI Development
 
 Following needs may be to arrange webhook admin page to control every webhooks.
 
-= Getting Started =
+# Getting Started
 
 Under the category section, you can create a category with DWI or use DC webhook on existing category. Whenever any post published, notification will be sent to DC.
 
-== Installation ==
+# Installation
 
 1. Upload the folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Navigate to Posts > Categories to configure the webhook.
 
-== Frequently Asked Questions ==
+# Frequently Asked Questions
 
 
-== Screenshots ==
+# Screenshots 
 
 
-== Changelog ==
+# Changelog
 
 
 
-== Upgrade Notice ==
+# Upgrade Notice
