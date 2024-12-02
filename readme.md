@@ -38,6 +38,8 @@ Under the category section, you can create a category with DWI or use DC webhook
 2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Navigate to Posts > Categories to configure the webhook.
 
+[Setup Video](https://cdn.discordapp.com/attachments/1306665117357838346/1312411223706308719/DC-Webhook_en.mov?ex=674f08b3&is=674db733&hm=7b3c9d5856fa0daf8c0f55de8066919836238a826731f806a47aa5b3931b8050&)
+
 # Frequently Asked Questions
 
 
